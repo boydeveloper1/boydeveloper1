@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 <a  target=”_blank” href="https://adetayo.net/">My personal website</a><br>🌱 I’m currently building an AI MERN STACK website<br>💬 Ask me about anything Software Engineering<br>⚡ Fun fact: I have a knack for playing ping pong 🏓<br>💻 <a href="https://eventhiveweb100.web.app/">Recent personal project</a><br>
+👨‍💻 <a href="https://adetayo.net/" target="_blank" rel="noopener noreferrer" >My personal website</a><br>🌱 I’m currently building an AI MERN STACK website<br>💬 Ask me about anything Software Engineering<br>⚡ Fun fact: I have a knack for playing ping pong 🏓<br>💻 <a href="https://eventhiveweb100.web.app/">Recent personal project</a><br>
 
 
 ## 🌐 Socials:
