@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 <a href="https://www.adetayo.net/" target="_blank" rel="noopener noreferrer" >My personal website</a><br>🌱 I’m currently learning <b>Docker and Kubernetes </b><br>💬 Ask me about anything Software Engineering<br>⚡ Fun fact: I have a knack for playing ping pong 🏓<br>💻 <a href="https://smart-plate-chef.web.app/" target="_blank" rel="noopener noreferrer" >Recent personal project</a><br>
+👨‍💻 <a href="https://www.adetayo.net/" target="_blank" rel="noopener noreferrer" >My personal website</a><br>🌱 Practicing for AWS Cloud Practitioner Cert </b><br>💬 Ask me about anything Software Engineering<br>⚡ Fun fact: I have a knack for playing ping pong 🏓<br>💻 <a href="https://smart-plate-chef.web.app/" target="_blank" rel="noopener noreferrer" >Recent personal project</a><br>
 
 
 ## 🌐 Socials:
